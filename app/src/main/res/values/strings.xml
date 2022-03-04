@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CalCounter</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="title_text">CalCounter</string>
+    <string name="hint_food">what did you eat?</string>
+    <string name="hint_calories">Calories Count</string>
+    <string name="submit_text">Submit</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="share_title">Share</string>
+    <string name="food_total_text">Total Calories : </string>
+    <string name="cal_text">Cal.</string>
+    <string name="food_items_num">Food Items : </string>
+    <string name="title_activity_display_foods">DisplayFoodsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_foof_item_details">activity_foof_item_details</string>
+
+</resources>
